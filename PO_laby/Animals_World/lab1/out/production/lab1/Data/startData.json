@@ -1,0 +1,11 @@
+{
+  "numOfAnimals": 200 ,
+   "heightOfMap": 100,
+   "widthOfMap":  100,
+   "JungleRatio": 0.4,
+   "startAnimalEnergy": 500,
+   "grassProfit": 80,
+   "delay":5,
+   "grassSpawnedPerDay": 4,
+   "dayEnergyCost": 3
+}
